@@ -17,6 +17,7 @@ Material I used:
 Check out my Lightsaber video:
 - https://www.youtube.com/watch?v=yJ4CkObPQko
 - https://www.youtube.com/watch?v=Tk7SUwW7S4E
+- https://www.youtube.com/watch?v=5-_3veuSGzQ
 
 
 The Arduino code is adapted from MadGyver's open source:
